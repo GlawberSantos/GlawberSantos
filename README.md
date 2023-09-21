@@ -13,7 +13,7 @@
  
 
 ## :dart: PENSE ##
-<p align="center">💪⚡** Mudar pode dar medo, mas é uma aventura que pode te levar muito longe.**🚀 😉</p>
+<p align="center">💪⚡**Mudar pode dar medo, mas é uma aventura que pode te levar muito longe.**🚀 😉</p>
 
 
 <p align="center">
