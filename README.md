@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá sou o Glauber Santos 👋
 
-<!--
-**GlawberSantos/GlawberSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho Telecomunicações
+- 🌱 Estudando Programação na Rocketseat.
 
-Here are some ideas to get you started:
+<div align="center" id="top">
+  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://profile-readme-generator.com">Demo</a>
+</div>
+
+<div align="center">
+ 
+
+## :dart: PENSE ##
+<p align="center">💪⚡** Mudar pode dar medo, mas é uma aventura que pode te levar muito longe.**🚀 😉</p>
+
+
+<p align="center">
+<i>Mude para Evoluir✌️</i>
+</p>
+
