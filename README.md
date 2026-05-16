@@ -6,12 +6,6 @@ Aprendo na prática: cada repositório aqui é um passo da jornada.
 
 🚀 Atualmente estudando: JavaScript, TypeScript, Node.js, Java
 
-## Tecnologias
-[badges aqui]
-
-## Projetos em destaque
-[links para os pinned]
-
 ### TECNOLOGIAS DO MEU DIA DIA ✍️
 
 <div Style="display: inline_block"><br/>
