@@ -5,8 +5,6 @@ Supervisor na Vivo há +10 anos, em transição para dev.
 Aprendo na prática: cada repositório aqui é um passo da jornada.
 
 🚀 Atualmente estudando: JavaScript, TypeScript, Node.js, Java
-🎯 Objetivo: Atuar como Desenvolvedor Fullstack
-📍 Petrolina - PE | Aberto a oportunidades remotas
 
 ## Tecnologias
 [badges aqui]
