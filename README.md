@@ -35,8 +35,8 @@ Git | GitHub | VS Code | Figma
 ### 📫 Onde me encontrar
 
 - **LinkedIn**: [Glauber Santos](https://www.linkedin.com/in/glauber-santos-346957309/)
-- **E-mail**: (adicione seu e-mail aqui)
-- **Portfólio online**: (coloque o link após publicar no GitHub Pages/Netlify)
+- **E-mail**: glauber_asantos@outlook.com.br
+- **Portfólio online**: https://github.com/GlawberSantos
 
 ---
 
