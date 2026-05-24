@@ -18,7 +18,7 @@
 
 - 🔄 Em transição de carreira para desenvolvimento de software
 - 💼 +10 anos de experiência em liderança e gestão na Vivo
-- 📚 Estudando na **Rocketseat** e construindo projetos reais
+- 📚 Estudando na **Faculdade Uninassau** e construindo projetos reais
 - 🎯 Focado em me tornar Desenvolvedor Full Stack
 - 💡 Aberto a oportunidades, colaborações e feedback!
 
