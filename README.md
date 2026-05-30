@@ -61,10 +61,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlawberSantos&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlawberSantos&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GlawberSantos&show_icons=true&theme=tokyonight&hide_border=true" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlawberSantos&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
