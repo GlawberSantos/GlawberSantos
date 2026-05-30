@@ -66,9 +66,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GlawberSantos&theme=tokyonight&hide_border=true" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlawberSantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=GlawberSantos&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 ---
