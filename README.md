@@ -66,9 +66,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlawberSantos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=GlawberSantos&theme=tokyonight&hide_border=true" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlawberSantos&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlawberSantos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
 </div>
 
 ---
