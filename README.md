@@ -50,7 +50,7 @@
 | [Gerenciamento_Livros](https://github.com/GlawberSantos/Gerenciamento_Livros) | Sistema de biblioteca – desafio Rocketseat | Java |
 | [NLW-Agents](https://github.com/GlawberSantos/NLW-Agents) | Agentes de IA – projeto NLW Rocketseat | JavaScript |
 | [gestao-vagas](https://github.com/GlawberSantos/gestao-vagas) | API de gestão de vagas de emprego | Java |
-| [NLV POCKET](https://github.com/GlawberSantos/nlw-pocket-inorbit-api) | Projeto NLW Pocket – metas e hábitos | TypeScript |
+| [NLW Pocket](https://github.com/GlawberSantos/nlw-pocket-inorbit-api) | Projeto NLW Pocket – metas e hábitos | TypeScript |
 | [zingen](https://github.com/GlawberSantos/zingen) | Projeto Rocketseat | HTML, CSS |
 | [E-commerce-semijoias](https://github.com/GlawberSantos/E-commerce-semijoias) | Loja online de semijoias | HTML, CSS |
 | [link-page](https://github.com/GlawberSantos/link-page) | Página de links com dark/light mode | HTML, CSS |
