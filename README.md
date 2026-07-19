@@ -53,6 +53,7 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [NLW Pocket — In.Orbit API](https://github.com/GlawberSantos/NWL-POCKET-JAVASCRIT) | API REST de metas semanais com CTEs, validação de negócio e Docker | TypeScript · Fastify · PostgreSQL · DrizzleORM |
+| [E-commerce Semijoias](https://glawbersantos.github.io/E-commerce-semijoias/) | E-commerce completo com autenticação segura, pagamentos (MercadoPago), frete automático (Melhor Envio), chatbot com IA e dashboard admin. *Demo visual — backend roda localmente.* | React · Node.js · Express · PostgreSQL · Docker |
 | [gestao-vagas](https://github.com/GlawberSantos/gestao-vagas) | API de gestão de vagas de emprego com autenticação | Java · Spring Boot |
 | [api-cursos](https://github.com/GlawberSantos/api-cursos13) | API REST de gerenciamento de cursos com CRUD completo | Node.js |
 | [NLW Agents](https://github.com/GlawberSantos/NLW-Agents) | Agentes de IA — projeto NLW Rocketseat | JavaScript |
